@@ -4,5 +4,5 @@
 
 ### Description
 
-This project use the  Titanic diseaster data. In this project I analysed the data and th using interactive plot library plotly. Based on this I did prediction with the DecisionTreeClassifier using GridSearchCV. I get 0.74 accuracy and classification tree can be seen at the MLproject.png
+This project use the  Titanic diseaster data. In this project I analysed the data and th using interactive plot library plotly. Based on this I did prediction with the DecisionTreeClassifier using GridSearchCV. Machine Learning code is in MLproject.py. I get 0.74 accuracy and classification tree can be seen at the MLproject.png
 
